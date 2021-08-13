@@ -45,7 +45,7 @@ dependencies:
   another_flushbar: ^1.10.24
   animated_text_kit: ^4.2.1
   intl: ^0.17.0
-  flutter_spinkit: ^5.0.0 this is a eployee management system based where an adminstrator of the organizations creates an account and gets to add employee details and keep track of them.
+  flutter_spinkit: ^5.0.0
   csc_picker: ^0.2.5
   date_time_picker: "^2.1.0"
   image_picker: ^0.8.3+2

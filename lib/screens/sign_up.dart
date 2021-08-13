@@ -183,12 +183,12 @@ class _SignUpState extends State<SignUp> {
                     child: Stack(
                       children: [
                         CircleAvatar(
-                          radius: 65,
-                          backgroundImage: _image != null
-                              ? FileImage(
-                            _image,
-                          )
-                              : CircleAvatar(),
+                          // radius: 65,
+                          // backgroundImage: _image != null
+                          //     ? FileImage(
+                          //   _image,
+                          // )
+                          //     : CircleAvatar(),
                         ),
                         Positioned(
                           top: 10,
